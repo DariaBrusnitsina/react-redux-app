@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-redux-app/static/js/main.aaff4ef3.js",
+    "index.html": "/react-redux-app/index.html",
+    "main.aaff4ef3.js.map": "/react-redux-app/static/js/main.aaff4ef3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.aaff4ef3.js"
+  ]
+}
